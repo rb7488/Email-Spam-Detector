@@ -2,7 +2,9 @@
 # Email Spam Detector
 
 A simple Python-based Email Spam Detector using **Natural Language Processing (NLP)** and **Naïve Bayes classification**.
+## 🚀 Live Demo
 
+👉 [**Try the Email Spam Detector Live**](https://email-spam-detectorb.streamlit.app/)
 ## Features
 - **Spam Detection**: Identifies whether an email is spam or not.
 - **Text Preprocessing**: Cleans email text by removing special characters.
